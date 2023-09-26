@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Abdulelah\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-19 14:07+0000\n"
+"PO-Revision-Date: 2023-02-19 14:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: abdulelah"
+
+#: lib/abdulelah_theme_init.php:109
+msgid " Description"
+msgstr ""
+
+#. Name of the theme
+#. Description of the theme
+msgid "Abdulelah"
+msgstr ""
+
+#: lib/abdulelah_theme_init.php:79
+msgid "Add New"
+msgstr ""
+
+#: page-contact.php:47
+msgid "Address: "
+msgstr ""
+
+#: footer.php:116
+msgid "All Right Reserved to"
+msgstr ""
+
+#. Author of the theme
+msgid "Codezilla"
+msgstr ""
+
+#: footer.php:64
+msgid "Contact Us"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Us Template"
+msgstr ""
+
+#: page-contact.php:49
+msgid "Email: "
+msgstr ""
+
+#: lib/abdulelah_theme_init.php:95
+msgid "Featured Image"
+msgstr ""
+
+#: header.php:90
+msgid "Follow Us"
+msgstr ""
+
+#: header.php:91
+msgid "Follow us on Social Network"
+msgstr ""
+
+#: page_title.php:60
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://codzilla.net"
+msgstr ""
+
+#: header.php:64 page-contact.php:44
+msgid "Location"
+msgstr ""
+
+#: header.php:217
+msgid "Messge Us"
+msgstr ""
+
+#. Name of the template
+msgid "News Page"
+msgstr ""
+
+#: lib/abdulelah_theme_init.php:91
+msgid "Not found"
+msgstr ""
+
+#: lib/abdulelah_theme_init.php:93
+msgid "Not found in Trash"
+msgstr ""
+
+#: page_title.php:40 page_title.php:82
+msgid "Page Not Found"
+msgstr ""
+
+#: page-contact.php:48
+msgid "Phone: "
+msgstr ""
+
+#: lib/abdulelah_theme_init.php:99
+msgid "Remove featured image"
+msgstr ""
+
+#: header.php:185
+msgid "Search"
+msgstr ""
+
+#: header.php:144 header.php:184
+msgid "Search Blog"
+msgstr ""
+
+#: footer.php:54
+msgid "Services"
+msgstr ""
+
+#. Name of the template
+msgid "Services Template"
+msgstr ""
+
+#: lib/abdulelah_theme_init.php:97
+msgid "Set featured image"
+msgstr ""
+
+#: lib/abdulelah_theme_init.php:101
+msgid "Use as featured image"
+msgstr ""
+
+#: footer.php:45
+msgid "Useful Links"
+msgstr ""
+
+#: header.php:143
+msgid "What are you lookking for?"
+msgstr ""

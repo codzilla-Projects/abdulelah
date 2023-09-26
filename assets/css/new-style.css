@@ -1,0 +1,198 @@
+.about-section2 .experience h4{
+    position: absolute;
+    padding-left: 50px;
+    height: 61px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-section2 .experience h4:before{
+    content: "";
+    background-image: url('https://codezilla-eg.com/abdulelah/wp-content/uploads/2023/02/colorkit.png');
+    position: absolute;
+    left: 0;
+    width: 44px;
+    height: 61px;
+}
+/*Pagination*/
+nav.page-pagination {margin-top: 50px;}
+nav.page-pagination ul{
+
+    padding: 0;
+
+    margin: 0;
+
+    text-align: center;
+
+    font-size: 0;
+
+    line-height: 0;
+
+    border: none;
+
+}
+
+nav.page-pagination ul li{
+
+    list-style: none;
+
+    display: inline-block;
+
+    vertical-align: middle;
+
+    border: none;
+
+    position: relative;
+
+    border-radius: 10px;
+
+}
+
+
+
+nav.page-pagination ul li+li{
+
+    margin-left: 5px;
+
+}
+
+nav.page-pagination ul li a,
+
+nav.page-pagination ul li span{
+
+    font-size: 16px;
+
+    color: var(--primary-color);
+
+    width: 40px;
+
+    height: 40px;
+
+    border: 1px solid var(--primary-color);
+
+    display: inline-block;
+
+}
+
+nav.page-pagination ul li a,
+
+nav.page-pagination ul li span{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+
+}
+
+nav.page-pagination ul li span.current,
+
+nav.page-pagination ul li a:hover{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 16px;
+
+    color: #fff;
+
+    width: 40px;
+
+    height: 40px;
+
+    background-color: var(--primary-color);
+
+    border: 1px solid var(--primary-color);
+
+    position: relative;
+
+}
+
+
+
+nav.page-pagination ul li a.next{
+
+    margin-left: 15px;
+
+}
+
+nav.page-pagination ul li a.prev{
+
+    margin-right: 15px;
+
+}
+
+nav.page-pagination ul li a:hover{
+
+    background-color: var(--primary-color);
+
+}
+.address-section .address-card, .address-section .address-card .content{min-height: 245px;}
+
+.wpb_text_column.wpb_content_element {margin-bottom:0;}
+#about-us-bg-img .wpb_column.vc_column_container.vc_col-sm-12 {
+	position: initial;
+}
+#about-us-container {
+	margin: auto;
+}
+#about-us-img .wpb_gallery.wpb_content_element.vc_clearfix {
+	margin-bottom: 0;
+}
+#about-us-img .wpb_gallery_slides.wpb_flexslider.flexslider_fade.flexslider {
+	margin-bottom: 0;
+}
+#about-us-heading h6.vc_custom_heading {
+	color: var(--primary-color1);
+	font-size: 16px;
+	font-weight: 500;
+	font-family: "Poppins", sans-serif;
+	margin-bottom: 5px;
+	display: block;
+	margin-top: -5px;
+}
+.service-internal-details p {
+	font-size: 16px;
+	font-weight: 400;
+	color: var(--text-color2);
+	font-family: "Poppins", sans-serif;
+	line-height: 28px;
+}
+.service-internal-details h4 {
+	flex-shrink: 0;
+	width: 100%;
+	max-width: 100%;
+	padding-right: calc(var(--bs-gutter-x)/ 2);
+	padding-left: calc(var(--bs-gutter-x)/ 2);
+	margin-top: var(--bs-gutter-y);
+}
+.service-internal-details ul li {
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--text-color);
+    font-family: "Cuprum", sans-serif;
+    margin-bottom: 15px;
+}
+.service-internal-details ul{
+    padding:0;
+}
+div.service-internal-details div>div{
+    width: 50%;
+    float: left;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x)/ 2);
+    padding-left: calc(var(--bs-gutter-x)/ 2);
+    margin-top: 3%;
+}
+div.service-internal-details div>div+div{
+    width: 50%;
+    float: right;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x)/ 2);
+    padding-left: calc(var(--bs-gutter-x)/ 2);
+    margin-top: 3%;
+}
+.service-internal-details img{
+    max-width: 100%;
+    height: auto;
+}
